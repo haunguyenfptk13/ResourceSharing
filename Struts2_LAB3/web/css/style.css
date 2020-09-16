@@ -1,0 +1,22 @@
+
+.navbar{
+    background-color: #c3e6cb !important;
+}
+
+.navbar li a{
+    color:black !important;
+}
+
+.navbar li a:hover{
+    color: rgba(101, 102, 103, 0.9) !important;
+}
+
+.container{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+body{
+    background-color: rgba(245, 255, 230, 0.9) !important;
+}
+
